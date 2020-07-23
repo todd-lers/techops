@@ -1,5 +1,4 @@
 # This repository is no longer being updated. Please go to https://todd-lers.github.io/about/ to see the most recent info or to add updates.
----
 
 # techops
 Operations, How-Tos, Recipes, Rules
